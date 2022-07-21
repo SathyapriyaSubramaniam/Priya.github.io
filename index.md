@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### ML projects 
 
-[Project 1 Title](/sample_page)
+[House Price Prediction](https://github.com/SathyapriyaSubramaniam/House-Price-Prediction-Kaggle-competition/blob/main/improve-score-by-eda-feature-engg-house-price.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
