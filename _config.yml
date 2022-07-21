@@ -1,10 +1,9 @@
 title: Priya # your name (or website title) here
 logo: "Priya pic.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  A passionate Machine Learning enthusiast working on AI projects 
+  A passionate Machine Learning enthusiast finding patterns in data for solving business & community challenges  
   <br><br>
-  Second description 
-  <br><br>
+  
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
