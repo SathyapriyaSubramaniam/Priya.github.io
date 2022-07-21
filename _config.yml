@@ -1,12 +1,12 @@
-title:        Priya # your name (or website title) here
+title: Priya # your name (or website title) here
 logo: "Priya pic.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br><br>
+  <br>
   A passionate Machine Learning enthusiast using patterns in data to find solutions for business & community challenges 
   <br><br>
   
-  <a href="linkedin.com/in/sathyapriya-subramaniam-327349216">LinkedIn</a> 
-  <a href="github.com/SathyapriyaSubramaniam ">Github</a> 
+  <a href="https://www.linkedin.com/in/sathyapriya-subramaniam-327349216/>LinkedIn</a> 
+  
   
   
 theme: jekyll-theme-minimal
