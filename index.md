@@ -10,7 +10,7 @@ Determine the selling price of a house taking into account of many factors like 
 
 EDA | DATA CLEANING | FEATURE ENGINEERING | DATA PRE-PROCESSING | MODEL TRAINING | GRADIENT BOOSTING | HYPER-PARAMETER TUNING | MODEL EVALUATION <br>
 
-<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/housepricecollagess.png?raw=true" width="1000"/>                                                                                                                           
+<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/housepricecollagess.png?raw=true" width="1300"/>                                                                                                                           
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
