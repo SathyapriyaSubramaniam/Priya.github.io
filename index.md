@@ -8,13 +8,9 @@
 [View on Github](https://github.com/SathyapriyaSubramaniam/House-Price-Prediction-Kaggle-competition/blob/main/improve-score-by-eda-feature-engg-house-price.ipynb)<br>
 Determine the selling price of a house taking into account of many factors like location, size, age etc,. Extensive Exploratory Data Analysis on this Kaggle dataset revealed some of the misinterpreted/low variance variables and aided in the process of Feature selection for model training
 
-EDA | DATA CLEANING | FEATURE ENGINEERING | DATA PRE-PROCESSING | MODEL TRAINING | GRADIENT BOOSTING | HYPER-PARAMETER TUNING | MODEL EVALUATION 
+EDA | DATA CLEANING | FEATURE ENGINEERING | DATA PRE-PROCESSING | MODEL TRAINING | GRADIENT BOOSTING | HYPER-PARAMETER TUNING | MODEL EVALUATION <br>
 
-<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img1.png?raw=true" width="500"/>
-<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img7.png?raw=true" width="200"/>
-<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img4.png?raw=true" width="200"/>
-<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img6.png?raw=true" width="500"/>
-
+<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/housepricecollagess.png?raw=true" width="1000"/>                                                                                                                           
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
