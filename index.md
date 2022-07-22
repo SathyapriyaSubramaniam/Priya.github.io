@@ -10,7 +10,7 @@
 <img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img7.png?raw=true" width="500"/>
 <img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img4.png?raw=true" width="500"/>
 <img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img3.png?raw=true" width="300"/>
-<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img6.png?raw=true" width="500"/>
+<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img6.png?raw=true" width="250"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
