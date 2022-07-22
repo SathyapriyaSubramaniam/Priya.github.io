@@ -1,8 +1,7 @@
-## Portfolio
 
+## MACHINE LEARNING
 ---
-
-## MACHINE LEARNING 
+ 
 ### House Price Prediction
 <img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/tierra-mallorca-rgJ1J8SDEAY-unsplash.jpg?raw=true" width="200"/>
 
