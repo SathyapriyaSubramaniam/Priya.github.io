@@ -10,10 +10,10 @@ Determine the selling price of a house taking into account of many factors like 
 
 EDA | DATA CLEANING | FEATURE ENGINEERING | DATA PRE-PROCESSING | MODEL TRAINING | GRADIENT BOOSTING | HYPER-PARAMETER TUNING | MODEL EVALUATION 
 
-<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img1.png?raw=true" width="300"/>
-<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img7.png?raw=true" width="300"/>
-<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img4.png?raw=true" width="300"/>
-<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img6.png?raw=true" width="300"/>
+<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img1.png?raw=true" width="400"/>
+<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img7.png?raw=true" width="200"/>
+<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img4.png?raw=true" width="200"/>
+<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img6.png?raw=true" width="400"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
