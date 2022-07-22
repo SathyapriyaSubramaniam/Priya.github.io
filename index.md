@@ -5,13 +5,12 @@
 ### ML projects 
 
 [House Price Prediction](https://github.com/SathyapriyaSubramaniam/House-Price-Prediction-Kaggle-competition/blob/main/improve-score-by-eda-feature-engg-house-price.ipynb)<br>
-<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/Housepriceimg8.png?raw=true"/>
-<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img8.png"/>
-<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img1.png" width="500"/>
-<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img7.png" width="500"/>
-<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img4.png" width="500"/>
-<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img3.png" width="450"/>
-<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img6.png" width="450"/>
+<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img8.png?raw=true"/>
+<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img1.png?raw=true" width="500"/>
+<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img7.png?raw=true" width="500"/>
+<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img4.png?raw=true" width="500"/>
+<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img3.png?raw=true" width="300"/>
+<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img6.png?raw=true" width="500"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
