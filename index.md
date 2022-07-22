@@ -6,9 +6,9 @@
 
 [House Price Prediction](https://github.com/SathyapriyaSubramaniam/House-Price-Prediction-Kaggle-competition/blob/main/improve-score-by-eda-feature-engg-house-price.ipynb)
 <br>
-<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img1.png" alt="Correlation Matrix" width="200"/>
+<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img1.png" width="500"/>
 ![](https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img1.png "Correlation Matrix")
-
+<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img8.png"/>
 ![](https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/House%20price%20img8.png "Target bivariate Analysis")
 
 ---
