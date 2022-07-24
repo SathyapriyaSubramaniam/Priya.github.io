@@ -6,7 +6,7 @@
 <img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/tierra-mallorca-rgJ1J8SDEAY-unsplash.jpg?raw=true" width="200"/>
 
 [View on Github](https://github.com/SathyapriyaSubramaniam/House-Price-Prediction-Kaggle-competition/blob/71047fde3a1e3d21816d196dd64af27b89e5d653/eda-feature-engg-for-beginners-house-price.ipynb)<br>
-Determine the selling price of a house taking into account of many factors like location, size, age etc,. Extensive Exploratory Data Analysis on this Kaggle dataset revealed some of the misinterpreted/low variance variables and aided in the process of Feature selection for model training
+Determine the selling price of a house taking into account of many factors like location, size, age of house etc,. Extensive Exploratory Data Analysis on this Kaggle dataset revealed some of the misinterpreted/low variance variables and aided in the process of Feature selection for model training
 
 EDA | DATA CLEANING | FEATURE ENGINEERING | DATA PRE-PROCESSING | MODEL TRAINING | GRADIENT BOOSTING | HYPER-PARAMETER TUNING | MODEL EVALUATION <br>
 
