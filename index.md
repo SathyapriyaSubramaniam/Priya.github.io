@@ -12,9 +12,10 @@ EDA | DATA CLEANING | FEATURE ENGINEERING | DATA PRE-PROCESSING | MODEL TRAINING
 
 <img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/housepricecollagess.png?raw=true" width="1300"/>                                                                                                                          
 
+---
 ### Autism prediction using face images
 
-<img src="https://github.com/SathyapriyaSubramaniam/SathyapriyaSubramaniam.github.io/blob/main/images/tierra-mallorca-rgJ1J8SDEAY-unsplash.jpg?raw=true" width="200"/>
+<img src="https://github.com/SathyapriyaSubramaniam/SathyapriyaSubramaniam.github.io/blob/main/images/peter-burdon-C2zX9DEVSDs-unsplash.jpg?raw=true" width="200"/>
 
 [View on Github](https://github.com/SathyapriyaSubramaniam/Autism-prediction-using-face-images.git)<br>
 Predicting Autism Spectrum Disorder(ASD)in children using face images of children. Trasfer Learning method is incorporated in the Convolutional Neural Network model to efficiently extract features by connecting the pre-trained VGG16 to the fully connected layer
