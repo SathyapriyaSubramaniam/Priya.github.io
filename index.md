@@ -1,6 +1,6 @@
 
 ## MACHINE LEARNING
----
+
  
 ### House Price Prediction
 <img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/tierra-mallorca-rgJ1J8SDEAY-unsplash.jpg?raw=true" width="200"/>
@@ -10,9 +10,12 @@ Determine the selling price of a house taking into account of many factors like 
 
 EDA | DATA CLEANING | FEATURE ENGINEERING | DATA PRE-PROCESSING | MODEL TRAINING | GRADIENT BOOSTING | HYPER-PARAMETER TUNING | MODEL EVALUATION <br>
 
-<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/housepricecollagess.png?raw=true" width="1300"/>                                                                                                                           
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
+<img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/housepricecollagess.png?raw=true" width="1300"/>                                                                                                                          
+
+### Autism prediction using face images
+
+[View on Github](https://github.com/SathyapriyaSubramaniam/Autism-prediction-using-face-images.git)<br>
+Predicting Autism Spectrum Disorder(ASD)in children using face images of children. Trasfer Learning method is incorporated in the Convolutional Neural Network model to efficiently extract features by connecting the pre-trained VGG16 to the fully connected layer
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
