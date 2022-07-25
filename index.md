@@ -10,7 +10,6 @@ ___
 Determine the selling price of a house taking into account of many factors like location, size, age of house etc,. Extensive Exploratory Data Analysis on this Kaggle dataset revealed some of the misinterpreted/low variance variables and aided in the process of Feature selection for model training
 
 EDA | DATA CLEANING | FEATURE ENGINEERING | DATA PRE-PROCESSING | MODEL TRAINING | GRADIENT BOOSTING | HYPER-PARAMETER TUNING | MODEL EVALUATION 
-
 <img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/housepricecollagess.png?raw=true" width="1300"/>                                                                                                                          
 
 ---
