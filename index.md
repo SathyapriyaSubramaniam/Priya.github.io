@@ -2,6 +2,11 @@
 ## MACHINE LEARNING
 
 ___
+### Autism prediction using eye-tracking data - for a client in healthcare industry
+Autism prediction using Image classification Nueral Network, using the eye fixmap and heatmap data of the normal and ASD class groups. Tuned the model for best hyperparameters and improved the AUC ROC value by 20% against the baseline value
+
+EDA | DATA PRE-PROCESSING | MODEL BUILDING | MODEL TRAINING | HYPER-PARAMETER TUNING | PREDICTION | MODEL EVALUATION
+
  
 ### House Price Prediction
 <img src="https://github.com/SathyapriyaSubramaniam/priya.github.io/blob/main/images/tierra-mallorca-rgJ1J8SDEAY-unsplash.jpg?raw=true" width="200"/>
