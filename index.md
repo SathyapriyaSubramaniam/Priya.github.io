@@ -5,7 +5,7 @@ ___
 ### Autism prediction using eye-tracking data - for a client in healthcare industry
 <img src="https://github.com/SathyapriyaSubramaniam/SathyapriyaSubramaniam.github.io/blob/main/images/vanessa-bucceri-gDiRwIYAMA8-unsplash.jpg?raw=true" width="200"/>
 
-Autism prediction using Image classification Neural Network, using the eye fixmap and heatmap data of the normal and ASD class groups. Tuned the model for best hyperparameters and improved the AUC ROC value by 20% against the baseline value
+Convolutional Neural Network uses the eye-tracking fixmap and heatmap data of the normal and ASD class groups. Tuned the model for best hyperparameters and improved the AUC ROC value by 20% from the baseline value
 
 EDA | DATA PRE-PROCESSING | MODEL BUILDING | MODEL TRAINING | HYPER-PARAMETER TUNING | PREDICTION | MODEL EVALUATION
 
