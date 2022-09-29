@@ -9,7 +9,7 @@ Autism prediction using Image classification Neural Network, using the eye fixma
 
 EDA | DATA PRE-PROCESSING | MODEL BUILDING | MODEL TRAINING | HYPER-PARAMETER TUNING | PREDICTION | MODEL EVALUATION
 
-<img src="https://github.com/SathyapriyaSubramaniam/SathyapriyaSubramaniam.github.io/blob/main/images/autism_med_Collage.jpg?raw=true" width="1300"/>
+<img src="https://github.com/SathyapriyaSubramaniam/SathyapriyaSubramaniam.github.io/blob/main/images/autism_med_Collage.png?raw=true" width="1300"/>
 
 
 ---
