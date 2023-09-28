@@ -3,7 +3,7 @@
 
 ___
 ### Computer Vision application for Hawker centers
-<video src="[https://github.com/SathyapriyaSubramaniam/SathyapriyaSubramaniam.github.io/blob/08099129012405f955ea9c5040771b889140c483/videos/my_meal_app_demo%20(1080p).mp4]"></video>
+<video src="https://github.com/SathyapriyaSubramaniam/SathyapriyaSubramaniam.github.io/blob/main/videos/my_meal_app_demo (1080p).mp4"></video>
 
 ___
 ### Autism prediction using eye-tracking data - for a client in healthcare industry
