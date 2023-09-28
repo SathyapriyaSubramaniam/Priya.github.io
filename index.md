@@ -1,9 +1,6 @@
 
 ## MACHINE LEARNING
 
-___
-### Computer Vision application for Hawker centers
-<video src="https://github.com/SathyapriyaSubramaniam/SathyapriyaSubramaniam.github.io/blob/main/videos/my_meal_app_demo (1080p).mp4"></video>
 
 ___
 ### Autism prediction using eye-tracking data - for a client in healthcare industry
